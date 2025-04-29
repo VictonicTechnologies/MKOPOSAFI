@@ -41,7 +41,7 @@ export default function TablePay(props) {
                         <td>Enter Till Number :</td>
                         <td>
                             <Typography level="title-md">
-                                5204479
+                                707045
                             </Typography></td>
                     </tr>
                     <tr key="2">
